@@ -29,7 +29,7 @@ function addCodeToUI(code) {
   const listItem = document.createElement("li");
   listItem.className = "list-group-item d-flex justify-content-between";
 
-  listItem.appendChild(document.createTextNode(`${code}`));
+  listItem.appendChild(document.createTextNode(code));
 
   codeList.appendChild(listItem);
 
