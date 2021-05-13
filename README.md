@@ -1,2 +1,2 @@
 # Binary Agent
-## Dialing the binary code
+Dialing the binary code
